@@ -76,3 +76,9 @@
 >
 >➡️ Reparado el script de mascotas, ahora se podrá comprar mascotas en la tienda y hacer todas las interacciones con las mismas.
 >
+>
+>**☀️vSync⛅**
+>
+>➡️ Reparado bug que hacía que se miraran las huellas de los neumáticos en un clima normal.
+>
+
