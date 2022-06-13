@@ -58,3 +58,21 @@
 >➡️ Cambiado el logo de la Tablet de usuario.
 >
 >
+>**⛽LegacyFuel⛽**
+>
+>➡️ Ahora en el script de robo de coches los vehículos saldrán con 100 de gasolina.
+>
+>➡️ Ahora en el script de granjeros el vehículo de trabajo saldrá con 100 de gasolina.
+> 
+>➡️ Ahora en los trabajos de ayuntamiento los vehículos saldrán con 100 de gasolina.
+> 
+> 
+>**🖼️LoadingScreen🖼️**
+>
+>➡️ Cambiado el vídeo de la pantalla de carga, que aparecía uno de YugoslaviaRP
+>
+>
+>**🐈Mascotas🐈**
+>
+>➡️ Reparado el script de mascotas, ahora se podrá comprar mascotas en la tienda y hacer todas las interacciones con las mismas.
+>
