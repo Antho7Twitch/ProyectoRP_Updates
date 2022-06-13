@@ -20,11 +20,11 @@
 >➡️ Los jugadores podrán configurar las teclas en el menú de "Configuración de Teclas / FiveM".
 >
 >➡️ Por defecto las teclas serán las siguientes.
-- Activar interfaz: F4 o /llamadas
-- Aceptar entorno: O o /aceptarentorno
-- Mover interfaz: I o /imover
-- Siguiente entorno: Flecha Derecha o /iderecha
-- Entorno Anterior: Flecha Izquierda o /iizquierda
+>- Activar interfaz: F4 o /llamadas
+>- Aceptar entorno: O o /aceptarentorno
+>- Mover interfaz: I o /imover
+>- Siguiente entorno: Flecha Derecha o /iderecha
+>- Entorno Anterior: Flecha Izquierda o /iizquierda
 >
 >
 > 
