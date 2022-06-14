@@ -66,4 +66,26 @@
 >
 >
 >
+>**👮‍♂️Policía🚔**
+>
+>➡️ Reparado bug que hacía que la gente no pudiera sacar y guardar helicópteros en el trabajo de policía.
+>
+>➡️ "" "" sacar y guardar vehículos en el garaje policial.
+>
+>
+>**🤸‍♂️Gym🤸‍**
+>
+>➡️ Reparado el error que hacía que las peds femeninas no pudieran hacer la animación de los abdominales.
+>
+>➡️ Implementado sistema de skills en el script del Gimnasio.
+>
+>
+>
+>**🎣Pesca🎣**
+>
+>➡️ Reparado bug que hacía que en el trabajo de pescadores no spawneara el barco.
+>
+>➡️ El trabajo de pescador se tiene que hacer por orden: Taquilla para cambiarse de ropa, Spawn de furgón para ir al puerto, spawn del barco, pesca,...etc
+>
+>
 >
