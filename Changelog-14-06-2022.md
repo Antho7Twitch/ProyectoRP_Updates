@@ -36,3 +36,34 @@
 >
 >➡️ Cambiado el diseño de la furgoneta de granjeros.
 >
+>
+>**⛏️Mineros⛏️**
+>
+>➡️ Cambiada la herramienta de farmeo de los mineros, ahora será un martillo (Es lo que hay más coherente con el job, ya que no hay pico en GTA)
+>
+>➡️ Eliminado el antiguo script de mineros del servidor, ahora se utilizará el de farmeo directamente, se necesitará el job de minero pero no se tendrán que lavar las piedras, sino farmearlas y venderlas.
+>
+>➡️ Reducido considerablemente el número de "picadas" que se le pueden dar a las rocas para reducir el ritmo de farmeo, solo se podrá dar 5 picadas ya que cada una le baja la "vida" a la roca en 20 puntos y tardan un rato en reponerse, esto se irá equilibrando para mantener la economía del servidor así que probablemente sufra cambios en unos días.
+>
+>➡️ Reparado bug que hacía que no se pudiera recoger oro, hacía conflicto con un script de Nivel de Experiencia que no tenemos implementado.
+>
+>
+>**🦌Caza🐕**
+>
+>➡️ Reparado bug que hacía que no aparecieran
+>
+>➡️ Reparado bug que hacía que no se pudiera despellejar al animal tras matarlo.
+>
+>➡️ Reparado bug que hacía que la cámara se bloqueara teniendo que reiniciar FiveM para arreglarlo, ahora esto ya no pasará.
+>
+>➡️ Se necesitarán armas para realizarlo correctamente ya que cuerpo a cuerpo (aunque se pueda) es más complicado y la carne que te da es de menor calidad.
+>
+>➡️ No será necesario el trabajo "Cazador" ya que es un Hobby y no un trabajo.
+>
+>➡️ Se necesitarán cebos para poder cazar cualquier animal.
+>
+>➡️ Se han implementado otros 2 animales a la caza. El jabalí y el puma.
+>
+>
+>
+>
