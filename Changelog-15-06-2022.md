@@ -24,5 +24,5 @@
 >
 >➡️ Comprobado "bug" reportado de que no aparecían los puntos del trabajo de granjero. Funciona perfectamente.
 >
->
+>➡️ Revisado el job y funciona como debería.
 >
