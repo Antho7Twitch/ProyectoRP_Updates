@@ -30,4 +30,23 @@
 >
 >
 >
+>**Chat de Facciones**
+>
+>➡️ Añadido el chat de facciones, ahora los jugadores de diferentes facciones podrán hablar por radio interna con el comando /r (LSPD, SAFD, LSCustoms y Taxistas por ahora).
+>
+>
+>**Mafias**
+>
+>➡️ Revisado el bug del punto de tienda de mafia que no se puede abrir, no deja abrirlo porque no tiene items a la venta en el punto.
+>
+>
+>**Ojos**
+>
+>➡️ Revisado bug reportado de que el sistema no guarda los ojos y el color de los mismos en la base de datos, parece ser un error de uno de los packs de ropa. Estaré investigándolo y haciendo pruebas.
+>
+>
+>
+>**LSPD**
+>
+>➡️ Añadida al menú de "Interacción Ciudadana" la opción de expedir una Licencia de Armas a un civil.
 >
