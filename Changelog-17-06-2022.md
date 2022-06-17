@@ -30,3 +30,33 @@
 >
 >
 >
+>**🚓Policía🚓**
+>
+>➡️ Añadidos a la Base de Datos los nuevos rangos de la policía
+>
+>➡️ Añadidos los uniformes de la policía al script.
+>
+>➡️ Revisados los vehículos de policía y funcionan todos perfectamente.
+>
+>➡️ Añadido script de avisos automáticos de disparos que le llegarán a la policía.
+>
+>➡️ Añadido el /forzar OBLIGATORIO cuando se haga un robo de vehículo para que le llegue a la LSPD la alerta.
+>
+>
+>**🏥EMS🏥**
+>
+>➡️ Añadidos a la BD los nuevos rangos de la EMS.
+>
+>➡️ Reparado el NPC de recepción, que se reportó que estaba bug, ahora es imposible matarlo y no se mueve del sitio salvo cuando tiene que atender las heridas de un jugador.
+>
+>
+>
+>**📋Chat de Facciones📋**
+>
+>➡️ [Revisión] Revisando bug que hace que el chat de facciones no funcione correctamente, hace falta testeo por parte de los jugadores.
+>
+>
+>
+>**📋Forzado de Vehículos📋**
+>
+>➡️ Va a quedar sin uso temporalmente hasta que se habilite un script que haga la función.
