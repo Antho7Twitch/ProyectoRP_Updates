@@ -53,7 +53,7 @@
 >
 >**📋Chat de Facciones📋**
 >
->➡️ [Revisión] Revisando bug que hace que el chat de facciones no funcione correctamente, hace falta testeo por parte de los jugadores.
+>➡️ Se ha reparado el bug que hacía que no funcionara el chat de facciones, hace falta testeo por parte de los jugadores.
 >
 >
 >
